@@ -1,2 +1,18 @@
 Testing
 =======
+My Gephi Graph 
+===============
+
+>My Gephi Graph aims to demonstrate the friendship links between English speakers in **Lyon, France**. I spent a year in Lyon and was added into the Facebook group by the head of the GAA football club in Lyon. Due to the fact that many of those in the group have private pages, their names did not show on the graph on Gephi but I was able to make out the main clusters, as they were my friends on Facebook. The main three clusters consisted of important nodes like the head of the GAA club, the owner of a few Irish bars in Lyon and the Team Leader in the Automobile Association European Operations, which was based in Lyon. As there are a lot of English speakers in Lyon, due to the English speaking companies based there like the AA and Interpol, it is not surprising to see such intimate links between them. 
+
+
+>I extracted the data from the Facebook group using Netvizz; there were over **800 people** in the group so it took a little while to get the friendship links. Once I downloaded the gdf file, I uploaded it to Gephi and began altering it so I was visually easier to see and understand using the layout function. I also used the ranking setting to change the colour of the nodes to be able to see the clusters more clearly. I altered the graph as to get rid of some nodes that had few or no degrees to other nodes or clusters.
+When I was happy with my graph, I was ready to export it as a pdf document. I added curved edges because I felt that they were easier to navigate through as the clusters and nodes were quite close. After exporting to pdf, I had to manually add the labels because the names of many people did not show on the graph probably due to the privacy settings they have chosen for their Facebook page.
+
+>The nodes I had to delete could have been people who added themselves to the group in order to improve their English but had few friendship connections within it. The dominant clusters in the graph were the GAA club in Lyon, the Irish bar managers *(there are 12 Irish bars in Lyon)* and the Team Leaders who work in the Automobile Association European HQ, which is based in Lyon. It is also easy to see that within these three clusters there are connections. Many of those who work for the AA are friends with members of the GAA team for example. 
+I noticed a few of my friends in the group would be considered as Eigen-Vector Centrality as they are connected to many other nodes and would be very well known within Lyon’s English speaking community. In everyday terms, this is similar to popularity. The most popular nodes in the graph have many connections. 
+Because of these high connections, there is a high level of ‘betweeness’ among nodes. This means nodes act as a pathway for other friendships. Many people become friends through a mutual friend who happens to have a strong influence in the community. For example, my GAA coach also introduced me to many managers from the Irish bars in Lyon. 
+>>Therefore, I developed many edges as a small node who new nobody at the start. 
+Having a strong influence can be similar to the Eigen-Vector Centrality; the most popular or well-known nodes would be more influential or cause more connections than others.
+>>The distance between the nodes plays a crucial part in identifying strong and weak ties or links between nodes. The graph represents quite a small community anyway but it is easy to see the nodes that have a stronger friendship then others. Nodes that are close together represent strong friendship links and nodes that are located further away from their linked nodes show weaker friendship ties.  
+
